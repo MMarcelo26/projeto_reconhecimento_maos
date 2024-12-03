@@ -1,2 +1,2 @@
-# projeto_reconhecimento_maos
+# projeto_visao_computacional
  
